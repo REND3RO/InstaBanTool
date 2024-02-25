@@ -12,4 +12,4 @@ termux-setup-storage
 git clone https://github.com/REND3RO/InstaBanTool
 cd InstaBanTool 
 chmod +x *
-python igban.py
+python igban.py 
